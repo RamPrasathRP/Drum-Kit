@@ -90,5 +90,5 @@ This is a simple interactive Drum Kit application built using **HTML**, **CSS**,
 
 ## Author 💡
 
-**[Ram Prasath]**  
+**Ram Prasath**  
 
